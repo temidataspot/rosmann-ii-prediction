@@ -2,6 +2,8 @@
 ![Pipeline Banner](https://dummyimage.com/900x200/034438/ffffff&text=Rossmann+Sales+In-Sample+Prediction+Pipeline:+AzureML+Designer+Part+I)
 
 ---
+[![Project](https://img.shields.io/badge/AzureML-Graph-090570)](https://ml.azure.com/experiments/id/c1f72cfe-e5a7-41bf-a6c4-6115fae666c1/runs/2c14074c-4ce5-4e02-96ab-e4ad6493aae6?wsid=/subscriptions/22490f9b-3c78-44de-9753-7336b61d4527/resourceGroups/priscilla/providers/Microsoft.MachineLearningServices/workspaces/rossman-ml&tid=c794a269-2e9b-4777-ad46-2d19d81196d6#/?graphId=cc06c069-4ef7-4025-a419-534741554c9a&label=Pipeline-Created-on-11-10-2025&path=%2Fexperiments%2Fid%2Fc1f72cfe-e5a7-41bf-a6c4-6115fae666c1%2Fruns%2F2c14074c-4ce5-4e02-96ab-e4ad6493aae6&runId=2c14074c-4ce5-4e02-96ab-e4ad6493aae6) | [![Project](https://img.shields.io/badge/Pipeline-JobID-700569)](2c14074c-4ce5-4e02-96ab-e4ad6493aae6)
+*Kindly note, you need to have an MS Azure account to view the  pipeline graph*
 
 ## Project Overview
 
