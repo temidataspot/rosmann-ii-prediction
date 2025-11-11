@@ -1,6 +1,6 @@
 # Rossmann Sales In-Sample Prediction Pipeline – Azure ML Designer [I]
 
-![Pipeline Banner](https://dummyimage.com/1200x300/0078d4/ffffff&text=Rossmann+Sales+Prediction+Pipeline)
+![Pipeline Banner](https://dummyimage.com/1200x300/0078d4/ffffff&text=Rossmann+Sales+In-Sample+Prediction+Pipeline)
 
 ---
 
