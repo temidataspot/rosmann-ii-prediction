@@ -1,5 +1,5 @@
 
-![Pipeline Banner](https://dummyimage.com/1200x300/0078d4/ffffff&text=Rossmann+Sales+In-Sample+Prediction+Pipeline:+AzureML+Designer+Part+I)
+![Pipeline Banner](https://dummyimage.com/900x200/034438/ffffff&text=Rossmann+Sales+In-Sample+Prediction+Pipeline:+AzureML+Designer+Part+I)
 
 ---
 
@@ -114,7 +114,7 @@ After pipeline completion:
 
 1. Go to **Jobs → Select pipeline run**  
 2. Clicked **Score Model → Access data**  
-3. Downloaded the `.parquet` file (e.g., `data.dataset.parquet`)
+3. Downloaded the `.parquet` file ([data.dataset.parquet](https://github.com/temidataspot/rosmann-ii-prediction/blob/main/data.dataset.parquet))
 
 ![Artifact](https://github.com/temidataspot/rosmann-ii-prediction/blob/main/model_artifact_download.png)
 
@@ -124,8 +124,15 @@ After pipeline completion:
 
 ## 5. Loading the Scored Dataset in Python
 
-1. Open **VS Code** or **Jupyter Notebook**  
-2. Install dependencies if needed:
+1. Opened **Jupyter Notebook** in **VS Code**
+2. Install dependencies :
 
 ```bash
 !pip install pandas pyarrow fastparquet matplotlib seaborn
+```
+3. Assigned the downloaded artefact to a dataframe and conducted an exploratory analysis
+ ***Check [rossman.ipynb](https://github.com/temidataspot/rosmann-ii-prediction/blob/main/rossman.ipynb) for more details and chart visuals***
+
+## Next Steps:
+- Since in-sample prediction is confirmed to be valid, future predictions will be carried out in the next phase. 
+- Different models and metrics will be compared, and the optimal model will be selected
