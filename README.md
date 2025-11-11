@@ -1,3 +1,4 @@
+
 ![Pipeline Banner](https://dummyimage.com/1200x300/0078d4/ffffff&text=Rossmann+Sales+In-Sample+Prediction+Pipeline:+AzureML+Designer+Part+I)
 
 ---
@@ -28,10 +29,7 @@ The purpose of this project is to:
    - Go to **Compute → Compute Clusters → + New**  
    - Choose VM size, e.g., `Standard_D3_v2`  
    - Set **Minimum/Maximum nodes**  
-   - Click **Create**
-
-![Compute Cluster Example](https://dummyimage.com/800x400/cccccc/000000&text=Azure+ML+Compute+Cluster)
-
+   - Clicked **Create**
 ---
 
 ## 2. Creating the Designer Pipeline
